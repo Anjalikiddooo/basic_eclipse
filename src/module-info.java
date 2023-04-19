@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author AB
+ *
+ */
+module basic {
+}
